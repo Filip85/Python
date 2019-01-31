@@ -1,0 +1,6 @@
+venv
+__pycache__
+.idea
+hnb.py
+currency.db-journal
+mail.py
